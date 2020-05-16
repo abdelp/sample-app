@@ -3,7 +3,11 @@
 This is the sample application for [*Ruby on Rails Tutorial: Learn Web Development with Rails*](https://www.railstutorial.org/)
 
 You can download a copy from the reference implementation repo if you want it for completeness, but it’s not necessary for completing the tutorial. 5 5
-(6th Edition) by [Michael Hartl] (https://www.michaelhartl.com/). ## License All source code in the [Ruby on Rails Tutorial] (https://www.railstutorial.org/) is available jointly under the MIT License and the Beerware License.
+(6th Edition) by [Michael Hartl] (https://www.michaelhartl.com/). 
+
+## License
+
+All source code in the [Ruby on Rails Tutorial] (https://www.railstutorial.org/) is available jointly under the MIT License and the Beerware License.
 
 See [LICENSE.md](LICENSE.md) for details.
 
