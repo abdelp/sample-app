@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'signup', to: 'users#new'
   get 'foo/bar'
   get 'foo/baz'
   get 'static_pages/home'
